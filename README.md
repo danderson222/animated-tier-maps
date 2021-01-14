@@ -1,9 +1,8 @@
----
-title: "Animating the UK's Lockdown Tier Maps in R"
-author: "Dylan Anderson"
-date: "1/15/2021"
-subtitle: "How to use Twitter, R and creativity to download and build an evolving map GIF!"
----
+## **Animating the UK's Lockdown Tier Maps in R**
+### *How to use Twitter, R and creativity to download and build an evolving map GIF!*
+<br>
+By Dylan Anderson
+
 
 Since October, the UK's COVID-19 strategy has been defined by the government's **Lockdown Tier system**. Different regions, councils and cities have had their lockdowns change from **Tier 1 - Medium Alert** to the newly introduced **Tier 4 - Stay At Home**. Now everybody is in a national lockdown, but people all over the country continuously had trouble keeping track of what tier they were in, and what restrictions they had to abide with.
 
